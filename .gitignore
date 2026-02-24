@@ -1,0 +1,15 @@
+# Virtuelle Umgebung
+venv/
+
+# Python Bytecode
+__pycache__/
+*.pyc
+
+# Modelle (optional, wenn zu groß)
+models/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VSCode-Einstellungen
+.vscode/
